@@ -1,5 +1,5 @@
 # JavaScript1
-JavaScript mini project
+JavaScript mini assignment
 
 
----->        Digital Clock Using JS        ---->
+<----        Digital Clock Using JS        ---->
